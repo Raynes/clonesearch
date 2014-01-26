@@ -1,0 +1,4 @@
+clonesearch.egg-info/
+*.pyc
+env/
+dist/
